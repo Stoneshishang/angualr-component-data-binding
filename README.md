@@ -1,4 +1,4 @@
-# MyFirstApp
+# Angular Component and Data Binding
 
 This project is from [Max Angular Class section 5, Components & Databinding Deep](https://www.udemy.com/course/the-complete-guide-to-angular-2/learn/lecture/6656058#notes).
 
